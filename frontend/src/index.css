@@ -1,1 +1,13 @@
 @import "tailwindcss";
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+    background-color: #1E1B1B; /* Match your dark background color */
+  }
+  
+  #root {
+    height: 100%;
+    overflow: hidden;
+  }
